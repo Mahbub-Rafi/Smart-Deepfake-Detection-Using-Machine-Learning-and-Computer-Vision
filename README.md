@@ -98,7 +98,7 @@ able to address the problems that fake photos pose across a variety of applicati
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Mahbub-Rafi/Smart-Deepfake-Detection-Using-Machine-Learning-and-Computer-Vision/blob/main/LICENSE) file for details.
 
 ## Contributing
 Pull requests are welcome! If you would like to contribute to this project, please fork the repository and create a new branch for your changes. Submit a pull request when you are ready to merge your changes back into the main branch.
